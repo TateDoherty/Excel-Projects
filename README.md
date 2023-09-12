@@ -11,3 +11,4 @@ Using a data set from kaggle, I hope to prove my abilities to clean data in exce
 - fixed "date updated" and "date created colums" by making the dates in short date format in the Home Tab 
 - made new columns for each column that needed to be copy and pasted as a value so I could delete the original unclean column using cntrl + shift + v
 - deleted unusable data columns such as the "prior" column
+![](ExcelMovieImage.png)
