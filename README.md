@@ -4,4 +4,6 @@ Explore a collection of Excel projects highlighting my skills in extracting insi
 
 ![](UdemyExcelImageFixed.png)
 
+![](ShoesStoreSalesExcelImage.png)
+
 ![](ExcelMovieImage.png)
